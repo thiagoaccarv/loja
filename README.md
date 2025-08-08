@@ -14,9 +14,9 @@ Este é um projeto simples feito em Java para praticar conceitos de programaçã
 
 ## 🧠 Conceitos aplicados
 
-Classes e objetos
-Construtores
-Encapsulamento (private, get/set)
-Métodos personalizados
-Sobrescrita do método toString()
-Entrada de dados com Scanner
+- Classes e objetos
+- Construtores
+- Encapsulamento (private, get/set)
+- Métodos personalizados
+- Sobrescrita do método toString()
+- Entrada de dados com Scanner
