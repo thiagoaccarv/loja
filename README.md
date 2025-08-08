@@ -20,3 +20,6 @@ Este é um projeto simples feito em Java para praticar conceitos de programaçã
 - Métodos personalizados
 - Sobrescrita do método toString()
 - Entrada de dados com Scanner
+- Condicionais
+- Formatação de saída
+- Organizaç~ao em pacotes 'application' e 'entities'
