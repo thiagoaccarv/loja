@@ -22,4 +22,4 @@ Este é um projeto simples feito em Java para praticar conceitos de programaçã
 - Entrada de dados com Scanner
 - Condicionais
 - Formatação de saída
-- Organizaç~ao em pacotes 'application' e 'entities'
+- Organização em pacotes 'application' e 'entities'
